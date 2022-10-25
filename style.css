@@ -72,13 +72,13 @@ nav ul li a:hover{
 }
 
 h1{
-  color: rgb(236, 95, 13);
+  color: rgba(231, 247, 10, 0.979);
   margin: 20px 0px 20px;
   font-size: 75px;
 }
 
 h3{
-  color: rgb(3, 2, 17);
+  color: rgb(230, 60, 8);
   font-size: 25px;
   margin-bottom: 50px;
 }
@@ -177,7 +177,8 @@ button:hover{
 footer{
   padding: 20px;
   margin-bottom: 0;
-  background-color: #fa7c15;
+  color: white;
+  background-color: rgb(233, 39, 39);
   height: 100%;
   width: 100%;
   
