@@ -29,7 +29,7 @@ nav{
   cursor: pointer;
 }
 span{
-  color: brown;
+  color: rgb(252, 126, 8);
 }
 
 nav ul li{
@@ -72,13 +72,13 @@ nav ul li a:hover{
 }
 
 h1{
-  color: rgba(231, 247, 10, 0.979);
+  color: rgba(193, 226, 6, 0.979);
   margin: 20px 0px 20px;
   font-size: 75px;
 }
 
 h3{
-  color: rgb(230, 60, 8);
+  color: rgb(211, 57, 11);
   font-size: 25px;
   margin-bottom: 50px;
 }
